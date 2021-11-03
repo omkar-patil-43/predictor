@@ -1,0 +1,1 @@
+web: gunicorn Machine_learning_knn:app --log-file -
